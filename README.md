@@ -24,6 +24,13 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
 - [`2.3 Steaming`](./02-processing_understanding/03_stemming/README.md)
 - [`2.4 Lematización`](./02-processing_understanding/04-lemmatization/README.md)
 - [`2.5 Stopwords`](./02-processing_understanding/05-stopwords/README.md)
+- [`2.6 Etiquetado POS`](./02-processing_understanding/06-Pos/REDME.md)
+- `[2.7 Reconocimiento de Entidades Nombradas (NER)`](./02-processing_understanding/07-NER/README.md)
 
 ### 3. Clasificación de requisitos
-2. Similitud y agrupación de requisitos
+
+- [`3.1 Introducción al aprendizaje supervizado`]()
+- [`3.2 Clasificación en documentos de requisitos`]()
+- [`3.3 Extracción de características`]()
+
+### 4. Similitud y agrupación de requisitos
