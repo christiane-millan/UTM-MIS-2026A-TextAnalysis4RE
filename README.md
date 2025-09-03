@@ -15,10 +15,12 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
 
 ### 1. Introducción
 
-- NLP
+- [`Análisis de texto`](./01-intro/README.md)
+- [`Expresiones Regulares`](./01-intro/README.md)
   
 ### 2. Procesamiento y comprensión de requisitos de software
 
+- [Pandas](./02-processing_understanding/00-previos/00_numpy_pandas.ipynb)
 - [`2.1 Limpieza de datos con RE`](./02-processing_understanding/01-data_cleaning/README.md)
 - [`2.1 Tokenización`](./02-processing_understanding/02-tokenization/README.md)
 - [`2.3 Steaming`](./02-processing_understanding/03_stemming/README.md)
