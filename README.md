@@ -8,8 +8,14 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
 
 ## Requisitos
 
-    - Python 3.X
+    - Python 3.11
     - Entornos de trabajo en Python
+
+Para instalar ambiente:
+
+```bash
+> conda env --file environment.yml  
+```
 
 ## Contenido
 

@@ -1,0 +1,11 @@
+name: nlp4re2026a
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - nltk
+  - ipykernel
+  - numpy
+  - pandas
+  - conda-forge::scikit-learn
+prefix: /opt/miniconda3/envs/nlp4re2026a
