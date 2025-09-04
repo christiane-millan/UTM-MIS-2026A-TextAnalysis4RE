@@ -1,4 +1,4 @@
-# Análisis de texto para ingeniería de requesitos
+# Análisis de texto para ingeniería de requisitos
 
 Universidad Tecnológica de la Mixteca
 
