@@ -21,9 +21,7 @@ La tokenización de palabras es importante en muchos procesos, especialmente en 
 
 [Ejemplo 2. Tokenización de palabras](./code/tokenization_words_nltk.ipynb)
 
-## Otros tokenizadores en nltk
-
-### Tokenización de oraciones
+## Tokenización de oraciones
 
 La **tokenización de oraciones** es el proceso de separar un corpus de texto en sentencias que actúan como el primer nivel de tokens que componen el corpus.
 

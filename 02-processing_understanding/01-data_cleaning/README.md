@@ -108,11 +108,13 @@ Otro caso común es cuando los textos incluyen guiones automáticos insertados a
 Para evitar estos inconvenientes, es recomendable aplicar una normalización del texto, que consiste en reemplazar acentos y caracteres especiales por sus equivalentes en ASCII. De esta manera, se logra uniformidad en los datos y se facilita su análisis posterior.
 
 ```python
-text = "The café “Saint-Raphaël” is loca-\nted on Côte dʼAzur."
+"The café “Saint-Raphaël” is loca-\nted on Côte dʼAzur.
 ```
+
 Salida esperada de normalización:
+
 ```python
-text = "The café “Saint-Raphaël” is loca-\nted on Côte dʼAzur."
+"The cafe "Saint-Raphael" is located on Cote dʼAzur."
 ```
 
 
