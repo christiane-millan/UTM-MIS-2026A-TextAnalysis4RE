@@ -39,6 +39,8 @@ Para instalar ambiente:
 - [`2.6 Etiquetado POS`](./02-processing_understanding/06-Pos/REDME.md)
 - [`2.7 Reconocimiento de Entidades Nombradas (NER)`](./02-processing_understanding/07-NER/README.md)
 
+- [Análisis Exploratorio de Datos](./02-processing_understanding/08-EDA/README.md)
+
 ### 3. Clasificación de requisitos
 
 - [`3.1 Introducción al aprendizaje supervizado`]()
