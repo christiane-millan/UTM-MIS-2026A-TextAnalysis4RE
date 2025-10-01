@@ -11,10 +11,15 @@ Presentar al estudiante técnicas, herramientas y tecnologías de análisis de t
     - Python 3.11
     - Entornos de trabajo en Python
 
-Para instalar ambiente:
+Instalar ambiente con `conda`:
 
 ```bash
 > conda env --file environment.yml  
+```
+
+Exportar ambiente con `conda`:
+```python
+> conda list --export > requirements.yml
 ```
 
 ## Contenido
@@ -39,6 +44,13 @@ Para instalar ambiente:
 - [`2.6 Etiquetado POS`](./02-processing_understanding/06-Pos/REDME.md)
 - [`2.7 Reconocimiento de Entidades Nombradas (NER)`](./02-processing_understanding/07-NER/README.md)
 - [Análisis Exploratorio de Datos](./02-processing_understanding/08-EDA/README.md)
+
+#### Representación de texto
+
+- [Bolsa de palabras]()
+- [N-gramas]()
+- [TF-IDF]()
+
 
 ### 3. Clasificación de requisitos
 
