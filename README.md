@@ -2,6 +2,10 @@
 
 Universidad Tecnológica de la Mixteca
 
+## Maestría en Ingeniería de Software
+
+Dr. Millán
+
 ## Objetivo
 
 Presentar al estudiante técnicas, herramientas y tecnologías de análisis de textos que se pueden aplicar a distintos documentos de requisitos de software para automatizar una serie de tareas de análisis lingüístico realizadas en las distintas fases de la Ingeniería de Requerimientos.
@@ -47,15 +51,21 @@ Exportar ambiente con `conda`:
 
 #### Representación de texto
 
-- [Bolsa de palabras]()
-- [N-gramas]()
-- [TF-IDF]()
+- [`Conteo de palabras`](./03-features_extraction/01-bow/README.md)
+- [`TF-IDF`](./03-features_extraction/02-tf-idf/README.md)
+- [N-gramas](./03-features_extraction/03-ngrams/README.md)
 
 
 ### 3. Clasificación de requisitos
 
 - [`3.1 Introducción al aprendizaje supervizado`]()
 - [`3.2 Clasificación en documentos de requisitos`]()
-- [`3.3 Extracción de características`]()
+  
+#### 3.3 Extracción de características
+
+  - [`One-hot`](./04-text_classification/04-1_feature_engineering/04-1-1_onehot/REAME.md)
+  - [`Bolsa de palabras`]()
+  - [`TF-IDF`]()
+  - [Reducción de dimensiones]()
 
 ### 4. Similitud y agrupación de requisitos
