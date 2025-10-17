@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,visualstudiocode,linux,windows
 
 02-processing_understanding/08-EDA/code/dataset/un-general-debates-blueprint.csv
+03-features_extraction/04-EDA/code/dataset/un-general-debates-blueprint.csv
 
 ### Linux ###
 *~
