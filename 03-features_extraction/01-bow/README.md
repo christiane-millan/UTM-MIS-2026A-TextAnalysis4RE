@@ -39,4 +39,4 @@ Salida:
 Counter({'my': 3, 'cats': 3, 'She': 2, 'likes': 2, 'and': 2, 'like': 1, 'sofa': 1, 'dogs': 1})
 ```
 
-[Ejemplo. Análisis de frecuencia de palabras](./code/word_count.ipynb)
+[Ejemplo. Análisis de frecuencia de palabras](./code/eda_word_count.ipynb)

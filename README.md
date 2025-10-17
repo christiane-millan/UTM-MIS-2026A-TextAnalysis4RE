@@ -53,8 +53,8 @@ Exportar ambiente con `conda`:
 
 - [`Conteo de palabras`](./03-features_extraction/01-bow/README.md)
 - [`TF-IDF`](./03-features_extraction/02-tf-idf/README.md)
-- [N-gramas](./03-features_extraction/03-ngrams/README.md)
-
+- [`N-gramas`](./03-features_extraction/03-ngrams/README.md)
+- [Análisis Exploratorio de Datos - Parte II](./03-features_extraction/04-EDA/code/eda_tfidf_ngrams.ipynb)
 
 ### 3. Clasificación de requisitos
 
