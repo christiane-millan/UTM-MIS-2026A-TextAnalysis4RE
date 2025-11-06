@@ -68,7 +68,10 @@ Exportar ambiente con `conda`:
 #### Algoritmos de clasificación
 
 - [Naive Bayes]()
-- Regresión Lógistica
+- [Regresión Logística](./04-text_classification/04-2_text_class/04-2-2-_lr/README.md)
+  - Regresión Logística con BoW
+  - Regresión Logística con TF-IDF
+
 - [SVM](./04-text_classification/04-2_text_class/04-2-3_svm/)
   - LinearSVC
   - imbalanced-learn 
