@@ -56,16 +56,20 @@ Exportar ambiente con `conda`:
 - [`N-gramas`](./03-features_extraction/03-ngrams/README.md)
 - [Análisis Exploratorio de Datos - Parte II](./03-features_extraction/04-EDA/code/eda_tfidf_ngrams.ipynb)
 
-### 3. Clasificación de requisitos
+### [3. Clasificación de requisitos](./04-text_classification/README.md)
 
-- [`3.1 Introducción al aprendizaje supervizado`]()
-- [`3.2 Clasificación en documentos de requisitos`]()
-  
-#### 3.3 Extracción de características
+#### Extracción de características
 
-  - [`One-hot`](./04-text_classification/04-1_feature_engineering/04-1-1_onehot/REAME.md)
-  - [`Bolsa de palabras`]()
-  - [`TF-IDF`]()
-  - [Reducción de dimensiones]()
+- [`One-hot`](./04-text_classification/04-1_feature_engineering/04-1-1_onehot/REAME.md)
+- [`Bolsa de palabras`]()
+- [`TF-IDF`]()
+- [Reducción de dimensiones]()
+
+#### Algoritmos de clasificación
+
+- [Naive Bayes]()
+- Regresión Lógistica
+- SVM
+- 
 
 ### 4. Similitud y agrupación de requisitos
