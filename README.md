@@ -69,7 +69,9 @@ Exportar ambiente con `conda`:
 
 - [Naive Bayes]()
 - Regresión Lógistica
-- SVM
-- 
+- [SVM](./04-text_classification/04-2_text_class/04-2-3_svm/)
+  - LinearSVC
+  - imbalanced-learn 
+  
 
 ### 4. Similitud y agrupación de requisitos
