@@ -67,7 +67,11 @@ Exportar ambiente con `conda`:
 
 #### Algoritmos de clasificación
 
-- [Naive Bayes]()
+- [Naive Bayes](./04-text_classification/04-2_text_class/04-2-1_nv/)
+  - Naive Bayes con Bow
+  - Naive Bayes con Bow + Steamming + n-grams
+  - Naive Bayes con Bow + Data Leakage
+
 - [Regresión Logística](./04-text_classification/04-2_text_class/04-2-2-_lr/README.md)
   - Regresión Logística con BoW
   - Regresión Logística con TF-IDF
