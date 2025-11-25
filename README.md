@@ -83,4 +83,4 @@ Exportar ambiente con `conda`:
 
 ### 4. Similitud y agrupación de requisitos
 
-- Modelado de tópicos
+- [Modelado de tópicos](./05-similarity_n_clustering/05-1_topic_modeling/README.md)
