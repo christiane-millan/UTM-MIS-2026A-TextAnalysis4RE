@@ -117,7 +117,7 @@ Salida esperada de normalización:
 "The cafe "Saint-Raphael" is located on Cote dʼAzur."
 ```
 
-
+[**Ejemplo:** Normalización de carácteres](./code/character_normalization.ipynb)
 
 
 

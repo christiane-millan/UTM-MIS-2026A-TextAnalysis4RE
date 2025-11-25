@@ -82,3 +82,5 @@ Exportar ambiente con `conda`:
   
 
 ### 4. Similitud y agrupación de requisitos
+
+- Modelado de tópicos

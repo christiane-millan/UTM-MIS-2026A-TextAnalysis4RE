@@ -22,8 +22,12 @@ La **flexión** es el proceso de formar nuevas palabras a partir de la raíz y a
 
 > Ejemplo: cantar → cant-amos, cant-aría, cant-aste.
 
-El **stemming** es el proceso inverso: reducir una palabra a su forma base o raíz aproximada.
+El **stemming** es el proceso inverso: reducir una palabra a su forma base o raíz aproximada. 
 
 > Ejemplo: jugando, jugaría y jugaron → todas se reducen a la raíz jugar.
+
+En otros términos, el _stemming_ es un método de normalización de texto utilizado en NLP para simplificar el texto antes de que sea procesado por un modelo. Al romper los últimos caracteres de una palabra para encontrar una forma común de la palabra.
+
+
 
 [Ejemplo 4. Stemming](./code/stemming.ipynb)

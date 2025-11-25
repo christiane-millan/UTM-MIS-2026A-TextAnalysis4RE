@@ -1,6 +1,15 @@
 # Tokenización
 
-Los tokens son componentes textuales independientes y mínimos que tienen alguna sintaxis o semántica definida.
+Los tokens son componentes textuales independientes y mínimos (piezas únicas) que tienen alguna sintaxis o semántica definida. En la mayoría de los casos, los token son palabras. 
+
+Ejemplos:
+
+- Una palabra
+- Parte de una palabra
+- Un solo caracter
+- Un signo de puntuación `,!-.`
+- Token especiales `<URL>` o `<NAME>`
+- Token especiales de modelos específicos `[CLS]`, `[SEP]` (BERT)
 
 La tokenización puede ser definida como el proceso de separa datos textuales en pequeños componentes con significado llamados tokens.
 
