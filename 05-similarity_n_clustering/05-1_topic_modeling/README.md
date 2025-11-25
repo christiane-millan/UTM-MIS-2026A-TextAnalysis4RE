@@ -15,9 +15,7 @@ Dada una matriz original $V \in \mathbb{R}_{\ge 0}^{m \times n}$ (por ejemplo, u
 
 tales que:
 
-$
-V \approx WH
-$
+$V \approx WH$
 
 donde:
 
@@ -87,9 +85,7 @@ La **Descomposición en Valores Singulares** (*Singular Value Decomposition*, SV
 
 Sea una matriz $A \in \mathbb{R}^{m \times n}$, su SVD viene dado por:
 
-$
-A = U \, \Sigma \, V^{T}
-$
+$A = U \, \Sigma \, V^{T}$
 
 donde:
 
@@ -106,9 +102,7 @@ Los valores singulares indican la importancia de cada componente latente. Ordena
 
 2. __Reducción de dimensionalidad:__ Para un valor reducido $k$
 
-$
-A_k = U_k \, \Sigma_k \, V_k^{T}
-$
+$A_k = U_k \, \Sigma_k \, V_k^{T}$
 
 Con esto se conserva la estructura principal de la matriz con menos dimensiones.
 
